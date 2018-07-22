@@ -26,15 +26,6 @@ public class UserServices {
 	TaskDao taskDao;
 	@Autowired
 	GetBeanService beanService; 
-
-	/**
-	 * Method used to get bean object from beans.xml file.
-	 * 
-	 * @param name
-	 *            of the class in string format defined in beans.xml.
-	 * @return Object.
-	 */
-
 	
 
 	/**
